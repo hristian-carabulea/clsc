@@ -1,4 +1,4 @@
-# clsc: Simple Command in C/C++ to clear screen in Linux and Windows.
+# clsc: Simple Command in C++ to clear screen in Linux and Windows.
 -------------------------------------------------------------------------
 ### clsc.cpp : source file for the clear screen command
 ### clsc     : Linux clear screen command for bash
