@@ -6,4 +6,4 @@
 -------------------------------------------------------------------------
 ## To add clsc command to your environment, same clear screen command for both Windows and Linux:
 ### 1. In Linux add the following line to your .bashrc file: alias clsc='/home/yourUserName/clsc' or the location where you put the clsc command file. Then restart bash.
-### 2. In Windows add the clsc.exe file to C:\Windows\System32\. Visual Studio 2019 must also be installed to provide necessary .dll files, such as vcruntime140d.dll and others. Afterwards, the clsc executable will be available both in the command line and PowerShell.
+### 2. In Windows add the clsc.exe file to C:\Windows\System32\. Visual Studio 2019 must also be installed to provide necessary .dll files, such as vcruntime140d.dll and others. Afterwards, the clsc executable will be available both in the command line and PowerShell. I do not know, yet, how to circumvent this process.
