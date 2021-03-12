@@ -9,4 +9,4 @@
 -------------------------------------------------------------------------
 ## To add clsc command to your environment, same clear screen command for both Windows and Linux:
 ### 1. In Linux add the following line to your .bashrc file: alias clsc='/home/yourUserName/clsc' or the location where you put the clsc command file. Then restart bash.
-### 2. In Windows add the clsc.exe file to C:\Windows\System32\. I just read that installing the Visual C++ Redistributable package should prevent problems when running executable files built with Visual Studio, when Visual Studio is not installed. I have to find a machine where to test this process. Reference: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
+### 2. In Windows add the clsc.exe file to C:\Windows\System32\. If clsc.exe does not work, then install the Visual C++ Redistributable package. Reference: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
