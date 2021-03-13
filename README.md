@@ -2,6 +2,7 @@
 -------------------------------------------------------------------------
 ### clsc.cpp : source file for the clear screen command
 ### clsc     : Linux clear screen command for bash
+#### SHA-256:  95ee970280658b8c91719b4646fbffeaf67f3e8e075535e7091deed1b0e57b38. https://www.virustotal.com/gui/file/95ee970280658b8c91719b4646fbffeaf67f3e8e075535e7091deed1b0e57b38/
 ### clsc.exe : Windows clear screen executable file for command line and PowerShell. I just recompiled it using the newest Visual Studio update.
 #### SHA-256: ce1d65562cfcdfe10241a5bc49d5f44f681f93fd2dd7f3edd707a71e51b0a683, https://www.virustotal.com/gui/file/ce1d65562cfcdfe10241a5bc49d5f44f681f93fd2dd7f3edd707a71e51b0a683/
 ### VC_redist.x86.exe : Visual C++ redistributable Package necessary to run C++ programs built with Visual Studio.
