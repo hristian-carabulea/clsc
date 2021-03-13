@@ -10,6 +10,6 @@
 -------------------------------------------------------------------------
 ## To add clsc command to your environment, same clear screen command for both Windows and Linux:
 ### 1. In Linux put the clsc command file in your favorite folder, and add the following line to your .bashrc file: 
-### alias clsc='/your favorite folder/clsc' or the location where you put the clsc command file. Then restart bash.
+### alias clsc='/your favorite folder/clsc' , and then restart bash.
 ### 2. In Windows add the clsc.exe file to C:\Windows\System32\. 
 ### 3. If clsc.exe does not work (e.g. in PowerShell .\clsc), then install the Visual C++ Redistributable package. Reference: https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0
